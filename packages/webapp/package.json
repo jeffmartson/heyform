@@ -26,7 +26,7 @@
     "apollo-link-retry": "^2.2.16",
     "apollo-link-timeout": "^4.0.0",
     "apollo-upload-client": "^17.0.0",
-    "axios": "^1.6.8",
+    "axios": "^1.13.5",
     "big.js": "^6.1.1",
     "clsx": "^1.1.1",
     "color-rgba": "^3.0.0",
